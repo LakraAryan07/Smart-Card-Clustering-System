@@ -21,7 +21,7 @@ Understanding customer behavior is essential for building data-driven marketing 
 The project utilizes a dataset containing 2,240 initial customer profiles with 22 behavioral and demographic features[cite: 1]. 
 
 ### Engineered Features Include:
-* `Age`: Derived relative to the current project year ($2026 - \text{Year\_Birth}$)[cite: 1].
+* `Age`: Derived relative to the current project year ($2026 - \text{Year\Birth}$)[cite: 1].
 * `Total_Spendings`: Consolidated financial footprint combining multiple product categories (Wines, Fruits, Meat, Gold, etc.)[cite: 1].
 * `Children`: Combined count of children and teenagers living in the household[cite: 1].
 * `Tenure`: Scaled metric capturing customer loyalty in days based on registration date[cite: 1].
